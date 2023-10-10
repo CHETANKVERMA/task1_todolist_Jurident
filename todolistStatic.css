@@ -1,0 +1,20 @@
+.container{
+    margin: 50px 500px;
+    padding: 50px;
+    min-width: 25%;
+}
+.buttonPanel{
+    display: flex;
+    gap: 4px;
+    margin-top: 20px;
+}
+#textbox{
+    border: 1px solid black;
+}
+.colList{
+    background-color: yellow;
+}
+
+.btn1{
+    border: 2px solid black;
+}
