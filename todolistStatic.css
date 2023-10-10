@@ -1,7 +1,9 @@
 .container{
-    margin: 50px 500px;
-    padding: 50px;
-    min-width: 25%;
+  padding: 30px;
+   
+   max-width: 300px;
+    background-color: whitesmoke;
+   
 }
 .buttonPanel{
     display: flex;
@@ -13,8 +15,20 @@
 }
 .colList{
     background-color: yellow;
+    max-width: 150px;
 }
 
 .btn1{
     border: 2px solid black;
+}
+
+
+.main{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 90vh;
+}
+body{
+    background-color: grey;
 }
